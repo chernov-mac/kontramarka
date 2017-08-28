@@ -1,0 +1,23 @@
+{
+  "name": "kontramarka",
+  "version": "1.0.0",
+  "description": "Front End for new Kontramarka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chernov-mac/kontramarka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chernov-mac/kontramarka/issues"
+  },
+  "homepage": "https://github.com/chernov-mac/kontramarka#readme",
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
+}
